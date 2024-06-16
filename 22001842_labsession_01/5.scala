@@ -13,5 +13,6 @@ object RunningTimeCalculator {
     println()
     println("The total running time is " + totalTime + " minutes")
     println()
+    
   }
 }
